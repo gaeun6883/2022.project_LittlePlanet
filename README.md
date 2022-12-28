@@ -5,13 +5,12 @@
   
 #### 플레이 스크린샷  
 - 낮  
-![image](https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png){: width="30%" height="30%"}  
-<img src = "https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png" width="100px">
+<img src = "https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png" width="300px">  
 - 밤  
-![image](https://user-images.githubusercontent.com/93725108/209781397-4441dd7b-e964-4831-833f-afeb915d2be3.png)  
+<img src = "https://user-images.githubusercontent.com/93725108/209781397-4441dd7b-e964-4831-833f-afeb915d2be3.png" width="300px">  
 - 상점  
-![image](https://user-images.githubusercontent.com/93725108/209780817-76d4f1e0-814e-43ca-a420-8f7f1b59cbff.png){: width="30%" height="30%"}  
-
+<img src = "https://user-images.githubusercontent.com/93725108/209780817-76d4f1e0-814e-43ca-a420-8f7f1b59cbff.png" width="300px">  
+  
 #### 구현 사항 요약
 - 동기
 ![슬라이드2](https://user-images.githubusercontent.com/93725108/209780005-68a4274f-bcc1-432f-a79c-04e9890c882a.JPG)  
