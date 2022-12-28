@@ -5,8 +5,7 @@
   
 #### 플레이 스크린샷  
 - 낮  
-<img src = "https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png" width="300px">  
-- 밤  
+<img src = "https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png" width="300px">
 <img src = "https://user-images.githubusercontent.com/93725108/209781397-4441dd7b-e964-4831-833f-afeb915d2be3.png" width="300px">  
 - 상점  
 <img src = "https://user-images.githubusercontent.com/93725108/209780817-76d4f1e0-814e-43ca-a420-8f7f1b59cbff.png" width="300px">  
