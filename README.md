@@ -5,11 +5,11 @@
   
 #### 플레이 스크린샷  
 - 낮  
-![image](https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png)  
+![image](https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png){: width="30%" height="30%"}  
 - 밤  
 ![image](https://user-images.githubusercontent.com/93725108/209781397-4441dd7b-e964-4831-833f-afeb915d2be3.png)  
 - 상점  
-![image](https://user-images.githubusercontent.com/93725108/209780817-76d4f1e0-814e-43ca-a420-8f7f1b59cbff.png)  
+![image](https://user-images.githubusercontent.com/93725108/209780817-76d4f1e0-814e-43ca-a420-8f7f1b59cbff.png){: width="30%" height="30%"}  
 
 #### 구현 사항 요약
 - 동기
