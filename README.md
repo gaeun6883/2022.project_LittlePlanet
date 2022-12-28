@@ -3,6 +3,9 @@
 #### hackathon Project-Rotating Planet Decoration Game  
 #### project file link: https://github.com/Easy-H/IXXPs/tree/main/Project_Cube  
   
+#### 플레이 스크린샷  
+
+#### 구현 사항 요약
 - 동기
 ![슬라이드2](https://user-images.githubusercontent.com/93725108/209780005-68a4274f-bcc1-432f-a79c-04e9890c882a.JPG)  
   
