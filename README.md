@@ -4,7 +4,7 @@
 #### project file link: https://github.com/Easy-H/IXXPs/tree/main/Project_Cube  
   
 <img src = "https://user-images.githubusercontent.com/93725108/209820011-1e32ac38-5589-4b28-83fc-547b65832d29.png" width="300px">  
-#### 플레이 스크린샷  
+#### 플레이 캡처  
 - 낮/밤  
 <img src = "https://user-images.githubusercontent.com/93725108/209780800-48ce8640-d22f-4fb8-8114-31c4516be2ff.png" width="300px">
 <img src = "https://user-images.githubusercontent.com/93725108/209781397-4441dd7b-e964-4831-833f-afeb915d2be3.png" width="300px">  
