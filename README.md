@@ -4,6 +4,8 @@
 #### project file link: https://github.com/Easy-H/IXXPs/tree/main/Project_Cube  
 #### play_file을 다운받은 후 파일 안의 실행파일 실행 시 게임 플레이 가능  
   
+   
+   
 <img src = "https://user-images.githubusercontent.com/93725108/209820011-1e32ac38-5589-4b28-83fc-547b65832d29.png" width="300px">  
   
 #### 플레이 캡처  
