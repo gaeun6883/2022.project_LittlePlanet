@@ -19,9 +19,8 @@
 <img src = "https://user-images.githubusercontent.com/93725108/209780005-68a4274f-bcc1-432f-a79c-04e9890c882a.JPG" width="700px">  
   
 - 구현 사항  
-<img src = "https://user-images.githubusercontent.com/93725108/209780007-9222c57f-7470-4ad9-ab02-a041e4262586.JPG" width="700px">  
 -행성은 가만히 두어도 알아서 천천히 자전하며 그에 맞추어 타임존의 시간 또한 변한다.  
-  
+<img src = "https://user-images.githubusercontent.com/93725108/209780007-9222c57f-7470-4ad9-ab02-a041e4262586.JPG" width="700px"> 
 <img src = "https://user-images.githubusercontent.com/93725108/209780010-4b51a198-a9cb-4b31-a27e-44ec7e22c10d.JPG" width="700px">  
 <img src = "https://user-images.githubusercontent.com/93725108/209780007-9222c57f-7470-4ad9-ab02-a041e4262586.JPG" width="700px">  
 <img src = "https://user-images.githubusercontent.com/93725108/209780011-1e3026aa-cbe5-4991-8d96-d9ca190ae297.JPG" width="700px">  
